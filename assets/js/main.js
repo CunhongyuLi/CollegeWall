@@ -181,14 +181,5 @@
 						$menu._hide();
 
 			});
-    
-    <!-- Ad100 -->
-<ins class="adsbygoogle"
-     style="display:inline-block;width:728px;height:90px"
-     data-ad-client="ca-pub-4109235294002958"
-     data-ad-slot="4021603832"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 })(jQuery);
